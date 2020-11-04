@@ -1,6 +1,6 @@
 # Employment Buddy
 
-[Deployment](https://employmentbuddy.herokuapp.com/)
+[Deployment](https://murmuring-spire-69181.herokuapp.com/)
 
 ![badmath](https://img.shields.io/github/issues/anusontarangkul/employment-buddy)
 ![badmath](https://img.shields.io/github/forks/anusontarangkul/employment-buddy)
